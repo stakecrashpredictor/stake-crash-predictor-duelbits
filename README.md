@@ -13,7 +13,7 @@ The goal of this project is to develop a model that can predict the outcome of a
 
 Data Collection
 
-To train and test our model, we will collect data from online crash gambling website Stake.com. This data will include information such as the starting multiplier, the cash out multiplier, and the time at which the player cashed out. We will also collect information on the player's bet amount and the player's profit or loss.
+To train and test our model, we will collect data from online crash gambling website Stake.com and DuelBits.com. This data will include information such as the starting multiplier, the cash out multiplier, and the time at which the player cashed out. We will also collect information on the player's bet amount and the player's profit or loss.
 
 Data Preprocessing
 
